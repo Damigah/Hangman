@@ -20,6 +20,8 @@ Hangman is a classic game in which a player thinks of a word and the other playe
 The aim of this project is to showcase my programming skills by using the Hangman game as an example. 
 
 ### 1.3 What I have learnt
+- Class function
+
 
 ## 2. Installation Instructions
 1. Clone the GitHub repository. 
@@ -29,11 +31,14 @@ When the script is running, the user is asked to guess the letter of the word. T
 - README.md
 - Milestone_2.py
 - Milestone_3.py
+- Milestone_4.py
 
 ## 5. My Progression Through Each Milestone
 - Milestone_2.py
    - This is where I build my foundation on creating the hangman project by creating a list of fruits and ramdomising it while telling the user to enter a letter to see if it will match the chosen fruit by the ramdomiser.
 - Milestone_3.py
    - I check to see if the guess is in the word using a while loop and to create it all in a function to run the checks.
+- Milestone_4.py
+   - I added 2 functions named check_guess and ask_for_input. I define what happens if the letter is in the word then define what happens if the letter is not in the word. 
 
 ## 6. License Information
