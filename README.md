@@ -2,14 +2,14 @@
 
 # Table of Contents
 
-1. Description
-   - 1.1 About This Project
-   - 1.2 The Aim of The Project
-   - 1.3 What I have learnt
-2. Installation Instructions
-3. Usage Instructions
-4. File Structure of The Project
-5. My Progression Through Each Milestone
+1. [Description](#Description)
+   - 1.1 [About This Project](#About-This-Project)
+   - 1.2 [The Aim of The Project](#The-Aim-of-The-Project)
+   - 1.3 [What I have learnt](#What-I-have-learnt)
+2. [Installation Instructions](#Installation-Instruction)
+3. [Usage Instructions](#Usage-Instructions)
+4. [File Structure of The Project](#File-Structure-of-The-Project)
+5. [My Progression Through Each Milestone](#My-Progression-Through-Each-Milestone)
 
 ## 1. Description
 ### 1.1 About This Project
